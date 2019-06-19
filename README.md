@@ -1,5 +1,5 @@
 # Cab-Booking-Flutter-Web-App
-Cab Booking Web App in Flutter Template
+Cab Booking Template - Flutter
 
 Cab offers you just about everything you are looking for in a free taxi service website template. Almost, too obvious, don’t you think? But you know the gist of it; keeping things simple and to the point is one of the best approaches to succeed online.
 
@@ -14,17 +14,22 @@ With Taxi, you bring your transportation services front and center, and that is 
 * Flutter webdev serve configure
 * Dart
 
-## The project is helpful for me to exercise following concepts 
+## Key Learning Features:
 
-~ XML parsing in dart
-~ Async Programming
-~ Bloc Pattern
-~ Staggered, Tween based Animations
-~ Persistence storage using File API 
-~ Integration with media player plugin
-~ Flutter Compute method (for heavy xml parsing in another thread)
-~ Google Map Integration in Flutter etc
+* XML parsing in dart
+* Async Programming
+* Bloc Pattern
+* Staggered, Tween based Animations
+* Persistence storage using File API 
+* Integration with media player plugin
+* Flutter Compute method (for heavy xml parsing in another thread)
+* Google Map Integration in Flutter etc
 
+## Coming soon 
+
+* Bot Chat UI Template
+* Location Auto Suggestion
+* Google Map Flow Direction & Live Tracking.
 
 # Getting Started
 
